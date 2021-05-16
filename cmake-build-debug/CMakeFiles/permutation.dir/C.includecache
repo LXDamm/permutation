@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kvasarnomad/CLionProjects/permutation/des.c
+inttypes.h
+-
+stdio.h
+-
+des.h
+/home/kvasarnomad/CLionProjects/permutation/des.h
+
+/home/kvasarnomad/CLionProjects/permutation/des.h
+stdint.h
+-
+

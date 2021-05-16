@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/permutation.dir/main.c.o CMakeFiles/permutation.dir/des.c.o -o permutation 

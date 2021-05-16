@@ -1,0 +1,3 @@
+/home/kvasarnomad/CLionProjects/permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kvasarnomad/CLionProjects/permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kvasarnomad/CLionProjects/permutation/cmake-build-debug/CMakeFiles/permutation.dir
